@@ -48,15 +48,15 @@
 }
 
 .Weather .unit {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: 12px;
+  top: -25px;
   margin-left: 0px;
   color: black;
 }
 
-.WeatherInfo{
+.WeatherInfo {
   margin-top: 10px;
 }
