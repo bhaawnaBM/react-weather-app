@@ -6,8 +6,9 @@
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
+  color: #f65282;
 }
 
 .WeatherForecast-temperature-max {
-  color: rgb(136, 133, 133);
+  color: #f65282;
 }
